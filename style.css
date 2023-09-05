@@ -1,0 +1,170 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(234, 234, 234);
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(131, 125, 125, 0.1);
+    position: sticky;
+    top: 0px;
+   
+}
+.second {
+    display: flex;
+    list-style: none;
+   
+}
+.second li{
+    margin-top: 30px;
+    font-size: 25px;
+    padding-left: 30px;
+    
+}
+.second li:hover{
+    cursor: pointer;
+    color: #5243c0;
+    text-decoration: underline;
+}
+
+.first img{
+    height: 80px;
+
+    
+}
+.third{
+    margin-top: 30px;
+    font-size: 25px;
+  
+}
+.third button{
+    border-radius: 40px;
+    padding: 10px;
+    background-color: #FFD8DB;
+    color: #5243c0;
+    border: none;
+}
+.third button:hover{
+    background-color: #c99196;
+    color: #110094;
+    cursor: pointer;
+} 
+.section{
+    display: flex;
+    margin-top: 100px;
+    padding-left: 110px;
+}
+
+
+.a{
+ display: flex;
+ padding-top: 50px;
+}
+.b{
+display:flex ;
+}
+.c{
+display: flex;
+}
+.d{
+ display: flex;
+}
+
+ .section img{
+    width: 30px;
+    height: 30px;
+}
+.container2 img{
+    width: 400px;
+    height: 400px;
+    margin-left: 200px;
+}
+
+p{
+    padding-left: 20px;
+}
+.e{
+  padding-left: 30px;
+  margin-top: 10px;
+}
+.f{
+    padding-left: 4px;
+    margin-top: 10px;
+}
+.g{
+    padding-left: 45px;
+    margin-top: 10px;
+}
+.h{
+    padding-left: 60px;
+    margin-top: 10px;
+}
+h1{
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.btn{
+    padding-left: 20px;
+    padding-top: 40px;
+}
+.btn button{
+  padding-left: 20px;
+  background-color: #5243c0;
+  color:#ffffff;
+  border-radius: 10px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.box1{
+    width: 27px;
+    height: 10px;
+    background-color:rgb(188, 202, 215);
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 21px;
+}
+.box2{
+    width: 27px;
+    height: 10px;
+    background-color:rgb(210, 81, 81);
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 21px;
+}
+.box3{
+    width: 27px;
+    height: 10px;
+    background-color:rgb(75, 112, 147);
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 21px;
+}
+.box4{
+    width: 27px;
+    height: 10px;
+    background-color:rgb(225, 150, 107);
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 21px;
+}
+h4{
+    padding-right: 30px;
+    padding-left: 10px;
+    
+}
+.aa{
+padding-top: 12px;
+}
+.bb{
+    padding-top: 12px;
+}
+.cc{
+    padding-top: 12px;
+}
+.dd{
+    padding-top: 12px;
+}
